@@ -1,2 +1,9 @@
-# EmpolyeeMangment
-A Java project demonstrating interfaces, inheritance, and full-time and part-time employee salaries.
+Employee Management System
+This is a Java project that demonstrates:
+Interfaces
+Inheritance
+Manager and Employee classes
+Full-Time and Part-Time employees. 
+Salary calculation
+Language: Java
+IDE: NetBeans
